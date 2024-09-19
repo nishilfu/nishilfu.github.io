@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nishilfu.github.io/sitemap.html.gz
+Sitemap: https://nishilfu.github.io/app/sitemap.html.gz
+Sitemap: https://nishilfu.github.io/assets/sitemap.html.gz
+Sitemap: https://nishilfu.github.io/css/sitemap.html.gz
+Sitemap: https://nishilfu.github.io/data/sitemap.html.gz
+Sitemap: https://nishilfu.github.io/includes/sitemap.html.gz
+Sitemap: https://nishilfu.github.io/item/sitemap.html.gz
+Sitemap: https://nishilfu.github.io/src/sitemap.html.gz
